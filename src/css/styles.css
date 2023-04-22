@@ -107,14 +107,14 @@ header .imagen-Relleno img{
     display: grid;
     font-family: 'Rubik Puddles', cursive;
     width: 100%;
-    height: 200px;
+    height: 400px;
     background: linear-gradient(to right, black, #273746);
     margin-top: 0;
-    align-items: center;
 }
 .yuoTubeVideos h1{
     color: rgb(39, 126, 12);
     margin-left: 100px;
+    margin-top: 40px;
 }
 
 /* Estilos de barra final */
